@@ -51,5 +51,3 @@ VOID here , I am a fullstack developer and a software engineer/pentester.
 ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat-square&logo=teradata&logoColor=white)
 
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=VOID4487&count_private=false&show_icons=true&include_all_commits=true)
