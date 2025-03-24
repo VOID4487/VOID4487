@@ -1,4 +1,8 @@
 {
   "image": "kalilinux/kali-rolling:latest",
-  "features": {}
+  "features": {
+    "ghcr.io/devcontainers/features/sshd:1": {
+        "version": "latest"
+    }
+  }
 }
